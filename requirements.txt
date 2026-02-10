@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
+tqdm
+tqdm_joblib
+kagglehub
