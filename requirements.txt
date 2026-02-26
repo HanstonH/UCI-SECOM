@@ -7,3 +7,4 @@ scikit-learn
 tqdm
 tqdm_joblib
 kagglehub
+xgboost
